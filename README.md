@@ -1,3 +1,4 @@
 # TKBreadCrumbView
 BreadCrumpView in Pure Swift
-Realese 01
+Release 01
+Release 02
